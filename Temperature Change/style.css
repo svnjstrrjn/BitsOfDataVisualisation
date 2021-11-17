@@ -1,0 +1,15 @@
+#colorMain{
+    fill: #10f577;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+#colorSecondary{
+    fill: #a8005d;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
